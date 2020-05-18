@@ -1,5 +1,11 @@
 # bedrock-vc-verifier ChangeLog
 
+## 1.1.0 - 2020-05-18
+
+### Added
+
+- Implement W3C CCG VC Verification HTTP API.
+
 ## 1.0.0 - 2020-02-27
 
 ### Added
