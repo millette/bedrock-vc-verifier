@@ -1,5 +1,11 @@
 # bedrock-vc-verifier ChangeLog
 
+## 1.2.0 - 2021-03-03
+
+### Fixed
+
+- Only verify based on `options.checks`.
+
 ## 1.1.0 - 2020-05-18
 
 ### Added
