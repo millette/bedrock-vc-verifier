@@ -1,5 +1,10 @@
 # bedrock-vc-verifier ChangeLog
 
+## 2.0.1 - TBD
+
+### Fixed
+- Fix bedrock peer dependencies.
+
 ## 2.0.0 - 2021-05-28
 
 ### Changed
