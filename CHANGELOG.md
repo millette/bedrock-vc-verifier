@@ -1,14 +1,16 @@
 # bedrock-vc-verifier ChangeLog
 
-## 2.0.0 - 2021-03-TBD
+## 2.0.0 - 2021-05-28
 
 ### Changed
 - **BREAKING**: Remove `axios` and use `@digitalbazaar/http-client@1.1.0`.
+  Errors surfaced from `http-client` do not have the same signature as `axios`.
 - **BREAKING**: Remove `cfg.ledgerHostname` and `cfg.mode` from `config.js`.
-- **BREAKING**: Revocation list credentials must have the same issuer value
-  as the credential to be revoked.
+- **BREAKING**: Use [vc-revocation-list@3](https://github.com/digitalbazaar/vc-revocation-list/blob/main/CHANGELOG.md).
+  Revocation list credentials must have the same issuer value as the credential
+  to be revoked.
 - **BREAKING**: Use [bedrock-did-io@3.0](https://github.com/digitalbazaar/bedrock-did-io/blob/main/CHANGELOG.md).
-- Rename `vc-js` to `@digitalbazaar/vc`.
+- Replace `vc-js` with `@digitalbazaar/vc`.
 - Update to support ed25519 2020 signature suite.
 - Update peerDeps and testDeps.
 
