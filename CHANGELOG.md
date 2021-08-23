@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 2.0.2 - 2021-08-TBD
+## 2.0.2 - 2021-08-23
 
 ### Changed
 - Update deps to fix multicodec bugs and set `verificationSuite` for `v1` to
