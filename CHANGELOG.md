@@ -1,5 +1,10 @@
 # bedrock-vc-verifier ChangeLog
 
+## 2.1.0 - 2021-09-14
+
+### Added
+- Add support for unsigned VPs.
+
 ## 2.0.2 - 2021-08-23
 
 ### Changed
