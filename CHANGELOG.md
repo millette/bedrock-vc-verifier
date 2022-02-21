@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 3.0.0 - 2022-02-xx
+## 3.0.0 - 2022-02-20
 
 ### Changed
 - **BREAKING**: Complete refactor to run on top of `bedrock-service*` modules. While
