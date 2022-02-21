@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 3.0.1 - 2022-02-xx
+## 3.0.1 - 2022-02-21
 
 ### Changed
 - Use `@digitalbazaar/vc-status-list-context` and updated bedrock-vc-status-list-context.
