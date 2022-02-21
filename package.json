@@ -1,6 +1,6 @@
 {
   "name": "bedrock-vc-verifier",
-  "version": "2.3.1-0",
+  "version": "3.0.0",
   "description": "Bedrock VC Verifier",
   "main": "lib",
   "repository": {
