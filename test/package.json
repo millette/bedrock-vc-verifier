@@ -22,6 +22,7 @@
     "@digitalbazaar/ezcap": "^2.0.2",
     "@digitalbazaar/http-client": "^2.0.1",
     "@digitalbazaar/vc": "^2.1.0",
+    "@digitalbazaar/vc-status-list-context": "^2.0.0",
     "bedrock": "^4.4.3",
     "bedrock-app-identity": "^1.2.0",
     "bedrock-credentials-context": "^1.0.0",
@@ -48,7 +49,7 @@
     "bedrock-test": "^6.0.0",
     "bedrock-validation": "^5.5.0",
     "bedrock-vc-revocation-list-context": "^1.0.0",
-    "bedrock-vc-status-list-context": "^1.0.0",
+    "bedrock-vc-status-list-context": "^1.0.1",
     "bedrock-vc-verifier": "file:..",
     "bedrock-veres-one-context": "^12.0.0",
     "bedrock-views": "^7.1.0",
@@ -60,7 +61,6 @@
     "express": "^4.17.2",
     "nyc": "^15.1.0",
     "vc-revocation-list-context": "^1.0.0",
-    "vc-status-list-context": "^1.0.0",
     "veres-one-context": "^12.0.0"
   },
   "nyc": {

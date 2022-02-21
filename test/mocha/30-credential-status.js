@@ -19,7 +19,7 @@ const https = require('https');
 const mockData = require('./mock.data');
 const vc = require('@digitalbazaar/vc');
 const revocationListCtx = require('vc-revocation-list-context');
-const statusListCtx = require('vc-status-list-context');
+const statusListCtx = require('@digitalbazaar/vc-status-list-context');
 const {util: {clone}} = bedrock;
 
 const {baseUrl} = mockData;
