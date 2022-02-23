@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 3.1.0 - 2022-02-xx
+## 3.1.0 - 2022-02-23
 
 ### Added
 - Add default (dev mode) `app-identity` entry for `vc-verifier` service.
