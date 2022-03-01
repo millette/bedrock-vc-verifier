@@ -1,5 +1,13 @@
 # bedrock-vc-verifier ChangeLog
 
+## 4.0.0 - 2022-03-xx
+
+### Changed
+- **BREAKING**: Move zcap revocations to `/zcaps/revocations` to better
+  future proof.
+- **BREAKING**: Require `bedrock-service-core@2`, `bedrock-service-agent@2`,
+  and `bedrock-service-context-store@2` peer dependencies.
+
 ## 3.1.0 - 2022-02-23
 
 ### Added
