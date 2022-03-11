@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 5.0.0 - 2022-03-xx
+## 5.0.0 - 2022-03-11
 
 ### Changed
 - **BREAKING**: Update peer dependencies:
