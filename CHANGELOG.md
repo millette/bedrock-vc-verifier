@@ -1,5 +1,13 @@
 # bedrock-vc-verifier ChangeLog
 
+## 5.0.0 - 2022-03-xx
+
+### Changed
+- **BREAKING**: Update peer dependencies:
+  - `bedrock-service-core@3`
+  - `bedrock-service-context-store@3`
+  - `bedrock-did-io@6.1`.
+
 ## 4.0.0 - 2022-03-01
 
 ### Changed
