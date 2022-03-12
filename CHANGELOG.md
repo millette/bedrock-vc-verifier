@@ -1,5 +1,11 @@
 # bedrock-vc-verifier ChangeLog
 
+## 5.1.0 - 2022-03-12
+
+### Changed
+- Update dependencies:
+  - `@digitalbazaar/vc-status-list@2.1`.
+
 ## 5.0.0 - 2022-03-11
 
 ### Changed
