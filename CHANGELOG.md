@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 6.0.0 - 2022-04-xx
+## 6.0.0 - 2022-04-06
 
 ### Changed
 - **BREAKING**: Rename package to `@bedrock/vc-verifier`.
