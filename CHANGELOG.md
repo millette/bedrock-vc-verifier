@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 7.0.0 - 2022-TBD
+## 7.0.0 - 2022-04-23
 
 ### Changed
 - **BREAKING**: Update `@digitalbazaar/vc-status-list` and
