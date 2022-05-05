@@ -1,5 +1,17 @@
 # bedrock-vc-verifier ChangeLog
 
+## 9.0.0 - 2022-05-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/service-agent@5`
+  - `@bedrock/service-context-store@6`.
+- **BREAKING**: The updated peer dependencies use a new EDV client with a
+  new blind attribute version. This version is incompatible with previous
+  versions and a manual migration must be performed to update all
+  EDV documents to use the new blind attribute version -- or a new
+  deployment is required.
+
 ## 8.0.0 - 2022-04-29
 
 ### Changed
