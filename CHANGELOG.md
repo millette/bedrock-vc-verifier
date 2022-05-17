@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 10.0.0 - 2022-05-xx
+## 10.0.0 - 2022-05-17
 
 ### Changed
 - **BREAKING**: Use `@bedrock-service-context-store@7` to cause migration of
