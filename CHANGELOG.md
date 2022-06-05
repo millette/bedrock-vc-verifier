@@ -1,11 +1,11 @@
 # bedrock-vc-verifier ChangeLog
 
-## 10.0.1 - 2022-TBD
+## 11.0.0 - 2022-06-05
 
 ### Changed
-- Use `@digitalbazaar/vc-status-list` v4.0.  if `statusPurpose` in credential
-  does not match the `statusPurpose` of status list credential, an error will
-  be thrown.
+- **BREAKING** Use `@digitalbazaar/vc-status-list` v4.0.  If `statusPurpose`
+  in credential does not match the `statusPurpose` of status list credential,
+  an error will be thrown.
 
 ## 10.0.0 - 2022-05-17
 
