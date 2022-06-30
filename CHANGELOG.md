@@ -1,14 +1,11 @@
 # bedrock-vc-verifier ChangeLog
 
-## 11.0.0 - 2022-06-05
+## 12.0.0 - 2022-xx-xx
 
 ### Changed
 - **BREAKING**: Require Node.js >=16.
 - **BREAKING**: Update dependenices.
   - `@digitalbazaar/vc@4`: `expirationDate` now checked.
-  - `@digitalbazaar/vc-status-list@4`: If `statusPurpose` in credential does
-    not match the `statusPurpose` of status list credential, an error will be
-    thrown.
 - **BREAKING**: Update peer dependencies.
   - `@bedrock/did-io@9`
   - `@bedrock/service-agent@6`
@@ -16,6 +13,13 @@
   - `@bedrock/service-core@6`
 - Use `package.json` `files` field.
 - Lint module.
+
+## 11.0.0 - 2022-06-05
+
+### Changed
+- **BREAKING** Use `@digitalbazaar/vc-status-list` v4.0.  If `statusPurpose`
+  in credential does not match the `statusPurpose` of status list credential,
+  an error will be thrown.
 
 ## 10.0.0 - 2022-05-17
 
