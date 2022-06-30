@@ -58,6 +58,7 @@
     "c8": "^7.11.3",
     "cross-env": "^7.0.3",
     "express": "^4.18.1",
+    "klona": "^2.0.5",
     "vc-revocation-list-context": "^1.0.0"
   },
   "c8": {
