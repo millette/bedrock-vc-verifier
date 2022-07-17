@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 12.1.0 - 2022-07-xx
+## 12.1.0 - 2022-07-17
 
 ### Added
 - Add support for oauth2-authorized verifier instances.
