@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 12.2.0 -
+## 12.2.0 - 2022-09-21
 
 ### Added
 - Add support for eddsa-2022 cryptosuite.
