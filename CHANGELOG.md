@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 13.0.0 - 2022-10-xx
+## 13.0.0 - 2022-10-23
 
 ### Changed
 - **BREAKING**: Update peer deps:
