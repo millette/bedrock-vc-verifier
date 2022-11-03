@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 14.0.0 - 2022-10-xx
+## 14.0.0 - 2022-10-03
 
 ### Changed
 - **BREAKING**: Only check challenge reuse (using verifier-based challenge
