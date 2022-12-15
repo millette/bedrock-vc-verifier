@@ -21,7 +21,7 @@
     "@bedrock/credentials-context": "^3.0.0",
     "@bedrock/data-integrity-context": "^1.0.0",
     "@bedrock/did-context": "^4.0.0",
-    "@bedrock/did-io": "^9.0.1",
+    "@bedrock/did-io": "github:digitalbazaar/bedrock-did-io#add-did-method-web",
     "@bedrock/edv-storage": "^16.0.0",
     "@bedrock/express": "^8.0.0",
     "@bedrock/https-agent": "^4.0.0",
