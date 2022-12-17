@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 14.1.0 - 2022-12-dd
+## 14.1.0 - 2022-12-17
 
 ### Added
 - Ensure verification errors, such as expired credential errors, are
