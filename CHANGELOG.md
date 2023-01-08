@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 15.0.0 - 2023-01-dd
+## 15.0.0 - 2023-01-08
 
 ### Changed
 - **BREAKING**: Use little-endian bit order for all bitstrings with revocation
