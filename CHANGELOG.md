@@ -1,5 +1,14 @@
 # bedrock-vc-verifier ChangeLog
 
+## 15.0.0 -
+
+### Changed
+- **BREAKING**: Use `@bedrock/mongodb: ^11`, `@bedrock/service-agent: ^7`, & `@bedrock/service-core: ^8`
+- **BREAKING**: Change results to use Node MongoDB Driver 4 API.
+
+### Removed
+- Remove deprecated MongoDB index `background`.
+
 ## 14.0.0 - 2022-11-03
 
 ### Changed
