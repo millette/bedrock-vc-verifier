@@ -1,6 +1,6 @@
 # bedrock-vc-verifier ChangeLog
 
-## 16.0.1 - 2023-TBD
+## 16.0.1 - 2023-04-18
 
 ### Fixed
 - Fixed mismatched/incompatible peerdeps. Updated to:
